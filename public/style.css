@@ -13,12 +13,13 @@ body,
 }
 
 body {
+  background-color: burlywood;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
 nav {
-  background-color: #5793fd;
-  color: #ffffff;
+  background-color: salmon;
+  color: whitesmoke;
   height: 80px;
   padding: 10px;
   line-height: 3;
@@ -96,7 +97,7 @@ input {
 }
 
 .wrapper {
-  background-color: #f2f8ff;
+  background-color: burlywood;
   padding-bottom: 100px;
 }
 
