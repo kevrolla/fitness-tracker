@@ -9,4 +9,4 @@ https://github.com/kevrolla/fitness-tracker/blob/master/Screen%20Shot%202020-06-
 
 https://github.com/kevrolla/fitness-tracker/blob/master/Screen%20Shot%202020-06-13%20at%205.32.38%20PM.png
 
-Screen Shot 2020-06-13 at 5.32.53 PM
+https://github.com/kevrolla/fitness-tracker/blob/master/Screen%20Shot%202020-06-13%20at%205.32.53%20PM.png
